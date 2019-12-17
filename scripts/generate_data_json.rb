@@ -11,7 +11,8 @@ data = tier.map {|t|
     name: ja ? ja['name'] : card['name'],
     imageUrl: ja ? ja['imageUrl'] : "https://mtg-jp.com//img_sys/cardImages/ELD/#{card['multiverseid'] + 1345}/cardimage.png",
     tier: t['myrating'].to_f,
-    colors: card['colors']
+    colors: card['colors'],
+    rarity: card['rarity']
   }
 }
 

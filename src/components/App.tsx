@@ -14,6 +14,8 @@ import FormGroup from "@material-ui/core/FormGroup";
 import FormControlLabel from "@material-ui/core/FormControlLabel";
 import Switch from "@material-ui/core/Switch";
 import Slider from "@material-ui/core/Slider";
+import Container from "@material-ui/core/Container";
+import Divider from "@material-ui/core/Divider";
 
 export const App: React.FC = () => {
   const [open, setOpen] = useState(false);
@@ -26,6 +28,12 @@ export const App: React.FC = () => {
     none: true
   });
   const [tierFilter, setTierFilter] = useState(3.1);
+  const [rarityFilter, setRarityFilter] = useState({
+    mythic: true,
+    rare: true,
+    uncommon: true,
+    common: true
+  });
 
   return (
     <>
@@ -37,11 +45,31 @@ export const App: React.FC = () => {
                 key={k}
                 control={
                   <Switch
+                    color="primary"
                     checked={colorFilter[k]}
                     onChange={() =>
                       setColorFilter({
                         ...colorFilter,
                         [k]: !colorFilter[k]
+                      })
+                    }
+                  />
+                }
+                label={k}
+              />
+            ))}
+            <Divider />
+            {Object.keys(rarityFilter).map(k => (
+              <FormControlLabel
+                key={k}
+                control={
+                  <Switch
+                    color="secondary"
+                    checked={rarityFilter[k]}
+                    onChange={() =>
+                      setRarityFilter({
+                        ...rarityFilter,
+                        [k]: !rarityFilter[k]
                       })
                     }
                   />
@@ -66,24 +94,27 @@ export const App: React.FC = () => {
           </Button>
         </DialogActions>
       </Dialog>
-      {cards
-        .sort((c1, c2) => c2.tier - c1.tier)
-        .filter(c => tierFilter <= c.tier)
-        .filter(c =>
-          c.colors.length === 0
-            ? colorFilter.none
-            : c.colors.some(color => colorFilter[color.toLowerCase()])
-        )
-        .map(c => (
-          <Card key={c.name}>
-            <CardContent>
-              <Typography>
-                {c.name} ({c.tier})
-              </Typography>
-            </CardContent>
-            <CardMedia component="img" src={c.imageUrl} />
-          </Card>
-        ))}
+      <Container maxWidth="xs" style={{ marginBottom: 50 }}>
+        {cards
+          .sort((c1, c2) => c2.tier - c1.tier)
+          .filter(c => tierFilter <= c.tier)
+          .filter(c =>
+            c.colors.length === 0
+              ? colorFilter.none
+              : c.colors.some(color => colorFilter[color.toLowerCase()])
+          )
+          .filter(c => rarityFilter[c.rarity.toLowerCase()])
+          .map(c => (
+            <Card key={c.name}>
+              <CardContent>
+                <Typography>
+                  {c.name} ({c.tier})
+                </Typography>
+              </CardContent>
+              <CardMedia component="img" src={c.imageUrl} />
+            </Card>
+          ))}
+      </Container>
       <BottomNavigation
         showLabels
         style={{ position: "fixed", width: "100%", bottom: 0 }}
