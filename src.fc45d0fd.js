@@ -47179,1247 +47179,1496 @@ module.exports = [{
   "name": "忠誠の円環",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474316&type=card",
   "tier": 4.2,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Mythic"
 }, {
   "name": "冬荒野の指揮官",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474512&type=card",
   "tier": 2.8,
-  "colors": ["Black", "White"]
+  "colors": ["Black", "White"],
+  "rarity": "Uncommon"
 }, {
   "name": "王冠泥棒、オーコ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474504&type=card",
   "tier": 4.5,
-  "colors": ["Green", "Blue"]
+  "colors": ["Green", "Blue"],
+  "rarity": "Mythic"
 }, {
   "name": "亜麻色の侵入者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474462&type=card",
   "tier": 1.7,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "恋煩いの野獣",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474472&type=card",
   "tier": 3.3,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Rare"
 }, {
   "name": "魔女の小屋",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474556&type=card",
   "tier": 2.0,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "水晶の靴",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474426&type=card",
   "tier": 1.8,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "魔法の井戸",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474381&type=card",
   "tier": 2.2,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "切望するマーフォーク",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474380&type=card",
   "tier": 1.9,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "共に逃走",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474369&type=card",
   "tier": 2.4,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "黄金の卵",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474527&type=card",
   "tier": 2.6,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "金のガチョウ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474467&type=card",
   "tier": 3.4,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Rare"
 }, {
   "name": "目玉収集家",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474393&type=card",
   "tier": 1.8,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "秘本の略奪者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474375&type=card",
   "tier": 2.3,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "マラリーフのピクシー",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474503&type=card",
   "tier": 3.1,
-  "colors": ["Green", "Blue"]
+  "colors": ["Green", "Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "フェアリーの荒らし屋",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474352&type=card",
   "tier": 2.9,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "悪ふざけの名人、ランクル",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474408&type=card",
   "tier": 3.7,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Mythic"
 }, {
   "name": "真夜中の時計",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474361&type=card",
   "tier": 3.2,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Rare"
 }, {
   "name": "真夜中の騎士団",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474406&type=card",
   "tier": 3.2,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "恋に落ちた剣士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474412&type=card",
   "tier": 2.5,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "穢れ沼の騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474397&type=card",
   "tier": 2.8,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "厳格な者、コンラッド卿",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474414&type=card",
   "tier": 3.1,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "試合場",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474555&type=card",
   "tier": 2.1,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "エンバレスの盾割り",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474429&type=card",
   "tier": 2.6,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "火生まれの騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474517&type=card",
   "tier": 2.9,
-  "colors": ["Red", "White"]
+  "colors": ["Red", "White"],
+  "rarity": "Uncommon"
 }, {
   "name": "紋章旗",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474529&type=card",
   "tier": 2.3,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "呪われた狩人、ガラク",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474498&type=card",
   "tier": 4.8,
-  "colors": ["Black", "Green"]
+  "colors": ["Black", "Green"],
+  "rarity": "Mythic"
 }, {
   "name": "Beanstalk Giant",
   "imageUrl": "https://mtg-jp.com//img_sys/cardImages/ELD/474456/cardimage.png",
   "tier": 2.6,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "エンバレスの聖騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474428&type=card",
   "tier": 2.2,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "銀炎の儀式",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474337&type=card",
   "tier": 2.0,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "殺戮の火",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474450&type=card",
   "tier": 3.1,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "パイ包み",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474383&type=card",
   "tier": 3.1,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "群れの笛吹き男",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474407&type=card",
   "tier": 3.3,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Rare"
 }, {
   "name": "よろめく鎧",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474537&type=card",
   "tier": 2.2,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "きらきらするすべて",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474309&type=card",
   "tier": 2.0,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "尊い騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474342&type=card",
   "tier": 2.3,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "輝く鎧",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474336&type=card",
   "tier": 1.9,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "通路の監視者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474348&type=card",
   "tier": 2.0,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "動かすフェアリー",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474345&type=card",
   "tier": 2.8,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "蛙化",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474354&type=card",
   "tier": 2.3,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "鼓舞する古参",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474501&type=card",
   "tier": 2.9,
-  "colors": ["Red", "White"]
+  "colors": ["Red", "White"],
+  "rarity": "Uncommon"
 }, {
   "name": "抜け目ない狩人",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474507&type=card",
   "tier": 3.0,
-  "colors": ["Black", "Green"]
+  "colors": ["Black", "Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "薔薇棘の見習い",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474481&type=card",
   "tier": 2.2,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "鋼爪の槍",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474509&type=card",
   "tier": 2.9,
-  "colors": ["Black", "Red"]
+  "colors": ["Black", "Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "輝き追い",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474508&type=card",
   "tier": 2.8,
-  "colors": ["Blue", "White"]
+  "colors": ["Blue", "White"],
+  "rarity": "Uncommon"
 }, {
   "name": "秘儀術師のフクロウ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474513&type=card",
   "tier": 3.2,
-  "colors": ["Blue", "White"]
+  "colors": ["Blue", "White"],
+  "rarity": "Uncommon"
 }, {
   "name": "魔女のかまど",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474544&type=card",
   "tier": 2.5,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "寓話の守り手",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474470&type=card",
   "tier": 2.7,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "乱闘の華",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474385&type=card",
   "tier": 2.5,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "王家の跡継ぎ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474506&type=card",
   "tier": 3.6,
-  "colors": ["Red", "Blue"]
+  "colors": ["Red", "Blue"],
+  "rarity": "Mythic"
 }, {
   "name": "神秘の論争",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474365&type=card",
   "tier": 2.2,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "フェアリーの導母",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474318&type=card",
   "tier": 2.3,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "意地悪な後見人",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474416&type=card",
   "tier": 2.3,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "僻森の追跡者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474490&type=card",
   "tier": 2.1,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "自然への回帰",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474480&type=card",
   "tier": 1.9,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "魔法の馬車",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474525&type=card",
   "tier": 2.4,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "カボチャ変化",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474376&type=card",
   "tier": 2.8,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "むかしむかし",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474476&type=card",
   "tier": 2.5,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Rare"
 }, {
   "name": "燃焦苑の教練者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474424&type=card",
   "tier": 2.7,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "硫黄投石器",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474423&type=card",
   "tier": 2.4,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "馬上槍の練習台",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474531&type=card",
   "tier": 2.1,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "馬上槍試合",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474436&type=card",
   "tier": 2.5,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "残忍な騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474404&type=card",
   "tier": 4.3,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Rare"
 }, {
   "name": "予言された壊滅",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474494&type=card",
   "tier": 2.3,
-  "colors": ["Black", "White"]
+  "colors": ["Black", "White"],
+  "rarity": "Rare"
 }, {
   "name": "オークヘイムのレインジャー",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474519&type=card",
   "tier": 2.7,
-  "colors": ["White", "Green"]
+  "colors": ["White", "Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "探索する獣",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474478&type=card",
   "tier": 4.2,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Mythic"
 }, {
   "name": "願い爪のタリスマン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474417&type=card",
   "tier": 2.5,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Rare"
 }, {
   "name": "エンバレスの宝剣",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474427&type=card",
   "tier": 3.9,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Mythic"
 }, {
   "name": "家の吹き飛ばし",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474421&type=card",
   "tier": 1.9,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "意地悪な狼",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474488&type=card",
   "tier": 3.9,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Rare"
 }, {
   "name": "魔女の復讐",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474418&type=card",
   "tier": 2.7,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Rare"
 }, {
   "name": "巨人落とし",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474321&type=card",
   "tier": 3.5,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Rare"
 }, {
   "name": "過去と未来",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474475&type=card",
   "tier": 2.5,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "筋骨隆々",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474477&type=card",
   "tier": 2.8,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "ギャレンブリグの聖騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474464&type=card",
   "tier": 2.3,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "湖に潜む者、エムリー",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474350&type=card",
   "tier": 2.9,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Rare"
 }, {
   "name": "メア湖の海蛇",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474502&type=card",
   "tier": 4.1,
-  "colors": ["Black", "Blue"]
+  "colors": ["Black", "Blue"],
+  "rarity": "Rare"
 }, {
   "name": "欲深い衝動",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474514&type=card",
   "tier": 2.8,
-  "colors": ["Black", "Blue"]
+  "colors": ["Black", "Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "貪るトロールの王",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474459&type=card",
   "tier": 3.8,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Rare"
 }, {
   "name": "カタカタ橋のトロール",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474391&type=card",
   "tier": 4.1,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Rare"
 }, {
   "name": "義賊",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474445&type=card",
   "tier": 3.4,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Mythic"
 }, {
   "name": "パンくずの道標",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474486&type=card",
   "tier": 2.6,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "Curious Pair",
   "imageUrl": "https://mtg-jp.com//img_sys/cardImages/ELD/474457/cardimage.png",
   "tier": 2.3,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "イタチ乗りのレッドキャップ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474455&type=card",
   "tier": 2.1,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "僻境生まれの保護者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474489&type=card",
   "tier": 3.5,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Rare"
 }, {
   "name": "惑乱スプライト",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474356&type=card",
   "tier": 2.7,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "さまよう砦",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474535&type=card",
   "tier": 1.7,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "焼尽の連射",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474447&type=card",
   "tier": 2.8,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "勇敢な騎士、カラ卿",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474452&type=card",
   "tier": 3.0,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "初子さらい",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474425&type=card",
   "tier": 1.8,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "立派な騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474343&type=card",
   "tier": 3.3,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Rare"
 }, {
   "name": "魅力的な王子",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474315&type=card",
   "tier": 2.7,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Rare"
 }, {
   "name": "荒くれたちの笑い声",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474505&type=card",
   "tier": 4.1,
-  "colors": ["Red", "White"]
+  "colors": ["Red", "White"],
+  "rarity": "Mythic"
 }, {
   "name": "頭蓋叩きのオーガ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474449&type=card",
   "tier": 2.0,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "焦熱の竜火",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474446&type=card",
   "tier": 3.0,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "具眼の主、エレノラ卿",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474374&type=card",
   "tier": 3.0,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "フェイ隠し",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474373&type=card",
   "tier": 3.9,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Rare"
 }, {
   "name": "ロークスワインの元首、アヤーラ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474382&type=card",
   "tier": 3.0,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Rare"
 }, {
   "name": "調和のアルコン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474324&type=card",
   "tier": 4.1,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Mythic"
 }, {
   "name": "塔への閉じ込め",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474340&type=card",
   "tier": 2.8,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "敬愛される王女",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474314&type=card",
   "tier": 1.7,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "真実の愛の口づけ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474341&type=card",
   "tier": 1.9,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "ジンジャーブルート",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474526&type=card",
   "tier": 2.1,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "七人の小人",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474448&type=card",
   "tier": 2.1,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "糸車",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474541&type=card",
   "tier": 2.4,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "知りたがる人形",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474530&type=card",
   "tier": 1.9,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "選択",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474366&type=card",
   "tier": 2.2,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "高潔のあかし",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474334&type=card",
   "tier": 1.9,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "老いたる者、ガドウィック",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474355&type=card",
   "tier": 3.5,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Rare"
 }, {
   "name": "日和見ドラゴン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474440&type=card",
   "tier": 4.0,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Rare"
 }, {
   "name": "大釜の使い魔",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474388&type=card",
   "tier": 2.3,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "限りない食欲",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474469&type=card",
   "tier": 2.1,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "マラリーフの乗り手",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474473&type=card",
   "tier": 2.3,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "沼のいたずら好き",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474387&type=card",
   "tier": 2.6,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "熱烈な勇者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474431&type=card",
   "tier": 2.3,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Rare"
 }, {
   "name": "壮大な破滅",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474392&type=card",
   "tier": 3.3,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "物語への没入",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474357&type=card",
   "tier": 2.5,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "魂裂き",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474410&type=card",
   "tier": 3.0,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "魔術遠眼鏡",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474540&type=card",
   "tier": 1.5,
-  "colors": []
+  "colors": [],
+  "rarity": "Rare"
 }, {
   "name": "首狩りの精鋭",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474516&type=card",
   "tier": 2.8,
-  "colors": ["Black", "Red"]
+  "colors": ["Black", "Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "雉狩り",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474460&type=card",
   "tier": 1.9,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "オークヘイムの敵対者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474474&type=card",
   "tier": 2.6,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "レッドキャップの乱闘",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474442&type=card",
   "tier": 3.1,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "死霊の金切り声",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474413&type=card",
   "tier": 1.8,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "アーデンベイルの戦術家",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474312&type=card",
   "tier": 2.9,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "エッジウォールの亭主",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474458&type=card",
   "tier": 2.7,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "放浪馬",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474511&type=card",
   "tier": 2.7,
-  "colors": ["Green", "White"]
+  "colors": ["Green", "White"],
+  "rarity": "Uncommon"
 }, {
   "name": "耳の痛い静寂",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474317&type=card",
   "tier": 1.0,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "ガラスの棺",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474322&type=card",
   "tier": 2.9,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "怒り狂うレッドキャップ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474441&type=card",
   "tier": 2.2,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "オーガの放浪騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474439&type=card",
   "tier": 2.2,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "失われた軍団",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474401&type=card",
   "tier": 2.2,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "砦の騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474326&type=card",
   "tier": 2.0,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "雷声のカミツキガメ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474522&type=card",
   "tier": 2.7,
-  "colors": ["Green", "Blue"]
+  "colors": ["Green", "Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "誓いを立てた騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474405&type=card",
   "tier": 3.2,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Rare"
 }, {
   "name": "狼の獲物",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474491&type=card",
   "tier": 1.8,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "谷の商人",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474438&type=card",
   "tier": 2.3,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "獰猛な魔女跡追い",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474461&type=card",
   "tier": 2.8,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "フェイ庄の古老",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474497&type=card",
   "tier": 2.8,
-  "colors": ["Green", "White"]
+  "colors": ["Green", "White"],
+  "rarity": "Rare"
 }, {
   "name": "のどかな農場",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474553&type=card",
   "tier": 2.0,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "石とぐろの海蛇",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474542&type=card",
   "tier": 4.2,
-  "colors": []
+  "colors": [],
+  "rarity": "Rare"
 }, {
   "name": "空想の書物",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474353&type=card",
   "tier": 3.3,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Rare"
 }, {
   "name": "屋敷の踊り",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474493&type=card",
   "tier": 2.4,
-  "colors": ["Blue", "White"]
+  "colors": ["Blue", "White"],
+  "rarity": "Rare"
 }, {
   "name": "ヴァントレスのガーゴイル",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474378&type=card",
   "tier": 2.7,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Rare"
 }, {
   "name": "砕骨の巨人",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474422&type=card",
   "tier": 3.9,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Rare"
 }, {
   "name": "カラスの仕返し",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474411&type=card",
   "tier": 3.2,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "魔法の鏡",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474358&type=card",
   "tier": 2.3,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Mythic"
 }, {
   "name": "アイレンクラッグの妙技",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474434&type=card",
   "tier": 1.6,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Rare"
 }, {
   "name": "鏡細工",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474362&type=card",
   "tier": 2.6,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Rare"
 }, {
   "name": "湖のドラゴン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474518&type=card",
   "tier": 3.0,
-  "colors": ["Red", "Blue"]
+  "colors": ["Red", "Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "レッドキャップの略奪者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474443&type=card",
   "tier": 2.2,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "突き破り",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474419&type=card",
   "tier": 2.1,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "ミストフォードの亀",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474363&type=card",
   "tier": 1.9,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "僻境の暴虐",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474430&type=card",
   "tier": 1.9,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "太っ腹、グラングリー",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474499&type=card",
   "tier": 3.0,
-  "colors": ["Green", "Red"]
+  "colors": ["Green", "Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "切り離す一撃",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474451&type=card",
   "tier": 3.4,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Rare"
 }, {
   "name": "機械仕掛けの召使い",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474523&type=card",
   "tier": 2.6,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "創案の火",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474432&type=card",
   "tier": 1.9,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Rare"
 }, {
   "name": "ヘンジを歩く者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474528&type=card",
   "tier": 2.3,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "伸びゆく豆の木",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474485&type=card",
   "tier": 1.8,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "巨大な好機",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474466&type=card",
   "tier": 2.4,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "交換される牛",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474313&type=card",
   "tier": 1.7,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "赦免のアルコン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474310&type=card",
   "tier": 3.1,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "朱地洞の族長、トーブラン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474454&type=card",
   "tier": 3.7,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Rare"
 }, {
   "name": "湖での水難",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474495&type=card",
   "tier": 2.9,
-  "colors": ["Black", "Blue"]
+  "colors": ["Black", "Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "独りぼっちのユニコーン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474328&type=card",
   "tier": 2.3,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "チューインベイルのツリーフォーク",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474487&type=card",
   "tier": 2.2,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "ギャレンブリグの従者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474465&type=card",
   "tier": 2.1,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "銀炎の従者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474338&type=card",
   "tier": 2.4,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "アーデンベイルの聖騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474311&type=card",
   "tier": 2.0,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "王権のための結集",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474332&type=card",
   "tier": 2.2,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "不動の女王、リンデン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474327&type=card",
   "tier": 2.7,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Rare"
 }, {
   "name": "ギャレンブリグの領主、ヨルヴォ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474492&type=card",
   "tier": 3.1,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Rare"
 }, {
   "name": "獅子の爪、エイリン卿",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474339&type=card",
   "tier": 2.9,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "黒槍の模範",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474386&type=card",
   "tier": 3.1,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Rare"
 }, {
   "name": "永遠の若さ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474396&type=card",
   "tier": 2.3,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "大釜の贈り物",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474390&type=card",
   "tier": 2.1,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Uncommon"
 }, {
   "name": "永遠の大釜",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474389&type=card",
   "tier": 2.6,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Mythic"
 }, {
   "name": "呪術師のほうき",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474539&type=card",
   "tier": 2.4,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "圧倒される弟子",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474367&type=card",
   "tier": 1.9,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "塁壁潰し",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474520&type=card",
   "tier": 3.0,
-  "colors": ["Green", "Red"]
+  "colors": ["Green", "Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "ロークスワイン城",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474548&type=card",
   "tier": 2.4,
-  "colors": []
+  "colors": [],
+  "rarity": "Rare"
 }, {
   "name": "ヴァントレス城",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474549&type=card",
   "tier": 2.3,
-  "colors": []
+  "colors": [],
+  "rarity": "Rare"
 }, {
   "name": "評判高い挑戦者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474308&type=card",
   "tier": 3.2,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Rare"
 }, {
   "name": "僻境への脱出",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474496&type=card",
   "tier": 2.5,
-  "colors": ["Green", "Red"]
+  "colors": ["Green", "Red"],
+  "rarity": "Rare"
 }, {
   "name": "エンバレス城",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474546&type=card",
   "tier": 2.3,
-  "colors": []
+  "colors": [],
+  "rarity": "Rare"
 }, {
   "name": "ギャレンブリグ城",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474547&type=card",
   "tier": 2.2,
-  "colors": []
+  "colors": [],
+  "rarity": "Rare"
 }, {
   "name": "王国まといの巨人",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474333&type=card",
   "tier": 4.0,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Mythic"
 }, {
   "name": "不思議な道照らし",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474329&type=card",
   "tier": 2.7,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "ヘンジの槌、ファレン卿",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474484&type=card",
   "tier": 2.9,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "アーデンベイル城",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474545&type=card",
   "tier": 2.4,
-  "colors": []
+  "colors": [],
+  "rarity": "Rare"
 }, {
   "name": "巨人の串",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474398&type=card",
   "tier": 2.0,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "籠城の準備",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474320&type=card",
   "tier": 1.6,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "ギャレンブリグの木工師",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474463&type=card",
   "tier": 2.3,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "幸運のクローバー",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474533&type=card",
   "tier": 2.7,
-  "colors": []
+  "colors": [],
+  "rarity": "Uncommon"
 }, {
   "name": "群れの番人",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474335&type=card",
   "tier": 2.7,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Uncommon"
 }, {
   "name": "願いのフェイ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474351&type=card",
   "tier": 2.7,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Rare"
 }, {
   "name": "嵐拳の聖戦士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474510&type=card",
   "tier": 2.8,
-  "colors": ["Black", "Red"]
+  "colors": ["Black", "Red"],
+  "rarity": "Rare"
 }, {
   "name": "ヴァントレスの聖騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474379&type=card",
   "tier": 2.2,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "不可解な幻視",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474377&type=card",
   "tier": 2.2,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "グレートヘンジ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474468&type=card",
   "tier": 4.2,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Mythic"
 }, {
   "name": "誘いの魔女",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474415&type=card",
   "tier": 2.4,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "アイレンクラッグの紅蓮術師",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474435&type=card",
   "tier": 3.7,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Rare"
 }, {
   "name": "お菓子の小屋",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474552&type=card",
   "tier": 2.1,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "厚かましい借り手",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474346&type=card",
   "tier": 3.9,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Mythic"
 }, {
   "name": "型破りな協力",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474500&type=card",
   "tier": 3.0,
-  "colors": ["Red", "Blue"]
+  "colors": ["Red", "Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "狂ったネズミ飼い",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474437&type=card",
   "tier": 2.6,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Uncommon"
 }, {
   "name": "血霞のクズリ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474420&type=card",
   "tier": 2.1,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "鋼睨みのグリフィン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474372&type=card",
   "tier": 2.0,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "潮流のマントル",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474359&type=card",
   "tier": 1.9,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "寓話の小道",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474551&type=card",
   "tier": 2.6,
-  "colors": []
+  "colors": [],
+  "rarity": "Rare"
 }, {
   "name": "ケンリスの変身",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474471&type=card",
   "tier": 2.2,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "凶兆の果実",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474395&type=card",
   "tier": 2.4,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "ロークスワインの聖騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474400&type=card",
   "tier": 2.2,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "薔薇棘の矛槍",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474482&type=card",
   "tier": 2.2,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "ロークスワインのガーゴイル",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474532&type=card",
   "tier": 1.7,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "極小",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474371&type=card",
   "tier": 2.3,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "不死の騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474515&type=card",
   "tier": 3.0,
-  "colors": ["Black", "Green"]
+  "colors": ["Black", "Green"],
+  "rarity": "Uncommon"
 }, {
   "name": "華やかな葬送",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474394&type=card",
   "tier": 1.9,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "野生語りの帰還",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474479&type=card",
   "tier": 3.0,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Rare"
 }, {
   "name": "揺るぎない騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474521&type=card",
   "tier": 2.9,
-  "colors": ["Black", "White"]
+  "colors": ["Black", "White"],
+  "rarity": "Uncommon"
 }, {
   "name": "めでたしめでたし",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474323&type=card",
   "tier": 1.2,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Rare"
 }, {
   "name": "神秘の聖域",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474554&type=card",
   "tier": 2.0,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "滝の賢者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474370&type=card",
   "tier": 2.4,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Uncommon"
 }, {
   "name": "静寂をもたらすもの",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474325&type=card",
   "tier": 2.3,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Rare"
 }, {
   "name": "リムロックの騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474444&type=card",
   "tier": 2.3,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "マーフォークの秘守り",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474360&type=card",
   "tier": 2.4,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "夜の死神",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474409&type=card",
   "tier": 2.1,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "月明かりの掃除屋",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474364&type=card",
   "tier": 2.3,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "邪悪な貴族",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474402&type=card",
   "tier": 2.3,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "胸躍る可能性",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474453&type=card",
   "tier": 2.1,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "ドワーフの鉱山",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474550&type=card",
   "tier": 2.0,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "羽ばたき狐",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474319&type=card",
   "tier": 2.4,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "出し抜き",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474330&type=card",
   "tier": 2.2,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "尊きグリフィン",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474331&type=card",
   "tier": 2.1,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "若年の騎士",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474344&type=card",
   "tier": 2.3,
-  "colors": ["White"]
+  "colors": ["White"],
+  "rarity": "Common"
 }, {
   "name": "魔法の眠り",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474347&type=card",
   "tier": 2.7,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "無礼の罰",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474349&type=card",
   "tier": 2.3,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "氷の女王",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474368&type=card",
   "tier": 2.1,
-  "colors": ["Blue"]
+  "colors": ["Blue"],
+  "rarity": "Common"
 }, {
   "name": "墳丘の魔女",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474384&type=card",
   "tier": 2.3,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "茨の鞭撃ち",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474399&type=card",
   "tier": 1.8,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "記憶盗み",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474403&type=card",
   "tier": 2.0,
-  "colors": ["Black"]
+  "colors": ["Black"],
+  "rarity": "Common"
 }, {
   "name": "投げ飛ばし",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474433&type=card",
   "tier": 1.9,
-  "colors": ["Red"]
+  "colors": ["Red"],
+  "rarity": "Common"
 }, {
   "name": "胞子頭の蜘蛛",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474483&type=card",
   "tier": 2.1,
-  "colors": ["Green"]
+  "colors": ["Green"],
+  "rarity": "Common"
 }, {
   "name": "跳ね橋",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474524&type=card",
   "tier": 2.1,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "頂の預言者",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474534&type=card",
   "tier": 2.0,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "煮えたぎる大釜",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474536&type=card",
   "tier": 2.5,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "道標のカカシ",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474538&type=card",
   "tier": 2.0,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }, {
   "name": "武器置き台",
   "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=474543&type=card",
   "tier": 1.7,
-  "colors": []
+  "colors": [],
+  "rarity": "Common"
 }];
 },{}],"node_modules/@material-ui/core/esm/FormGroup/FormGroup.js":[function(require,module,exports) {
 "use strict";
@@ -51260,7 +51509,341 @@ Object.defineProperty(exports, "default", {
 var _Slider = _interopRequireDefault(require("./Slider"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-},{"./Slider":"node_modules/@material-ui/core/esm/Slider/Slider.js"}],"src/components/App.tsx":[function(require,module,exports) {
+},{"./Slider":"node_modules/@material-ui/core/esm/Slider/Slider.js"}],"node_modules/@material-ui/core/esm/Container/Container.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = exports.styles = void 0;
+
+var _extends2 = _interopRequireDefault(require("@babel/runtime/helpers/esm/extends"));
+
+var _objectWithoutProperties2 = _interopRequireDefault(require("@babel/runtime/helpers/esm/objectWithoutProperties"));
+
+var _defineProperty2 = _interopRequireDefault(require("@babel/runtime/helpers/esm/defineProperty"));
+
+var _react = _interopRequireDefault(require("react"));
+
+var _propTypes = _interopRequireDefault(require("prop-types"));
+
+var _clsx = _interopRequireDefault(require("clsx"));
+
+var _withStyles = _interopRequireDefault(require("../styles/withStyles"));
+
+var _capitalize = _interopRequireDefault(require("../utils/capitalize"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+var styles = function styles(theme) {
+  var _root;
+
+  return {
+    /* Styles applied to the root element. */
+    root: (_root = {
+      width: '100%',
+      marginLeft: 'auto',
+      boxSizing: 'border-box',
+      marginRight: 'auto',
+      paddingLeft: theme.spacing(2),
+      paddingRight: theme.spacing(2)
+    }, (0, _defineProperty2.default)(_root, theme.breakpoints.up('sm'), {
+      paddingLeft: theme.spacing(3),
+      paddingRight: theme.spacing(3)
+    }), (0, _defineProperty2.default)(_root, theme.breakpoints.up('md'), {
+      paddingLeft: theme.spacing(4),
+      paddingRight: theme.spacing(4)
+    }), _root),
+
+    /* Styles applied to the root element if `disableGutters={true}`. */
+    disableGutters: {
+      paddingLeft: 0,
+      paddingRight: 0
+    },
+
+    /* Styles applied to the root element if `fixed={true}`. */
+    fixed: Object.keys(theme.breakpoints.values).reduce(function (acc, breakpoint) {
+      var value = theme.breakpoints.values[breakpoint];
+
+      if (value !== 0) {
+        acc[theme.breakpoints.up(breakpoint)] = {
+          maxWidth: value
+        };
+      }
+
+      return acc;
+    }, {}),
+
+    /* Styles applied to the root element if `maxWidth="xs"`. */
+    maxWidthXs: (0, _defineProperty2.default)({}, theme.breakpoints.up('xs'), {
+      maxWidth: Math.max(theme.breakpoints.values.xs, 444)
+    }),
+
+    /* Styles applied to the root element if `maxWidth="sm"`. */
+    maxWidthSm: (0, _defineProperty2.default)({}, theme.breakpoints.up('sm'), {
+      maxWidth: theme.breakpoints.values.sm
+    }),
+
+    /* Styles applied to the root element if `maxWidth="md"`. */
+    maxWidthMd: (0, _defineProperty2.default)({}, theme.breakpoints.up('md'), {
+      maxWidth: theme.breakpoints.values.md
+    }),
+
+    /* Styles applied to the root element if `maxWidth="lg"`. */
+    maxWidthLg: (0, _defineProperty2.default)({}, theme.breakpoints.up('lg'), {
+      maxWidth: theme.breakpoints.values.lg
+    }),
+
+    /* Styles applied to the root element if `maxWidth="xl"`. */
+    maxWidthXl: (0, _defineProperty2.default)({}, theme.breakpoints.up('xl'), {
+      maxWidth: theme.breakpoints.values.xl
+    })
+  };
+};
+
+exports.styles = styles;
+
+var Container = _react.default.forwardRef(function Container(props, ref) {
+  var classes = props.classes,
+      className = props.className,
+      _props$component = props.component,
+      Component = _props$component === void 0 ? 'div' : _props$component,
+      _props$disableGutters = props.disableGutters,
+      disableGutters = _props$disableGutters === void 0 ? false : _props$disableGutters,
+      _props$fixed = props.fixed,
+      fixed = _props$fixed === void 0 ? false : _props$fixed,
+      _props$maxWidth = props.maxWidth,
+      maxWidth = _props$maxWidth === void 0 ? 'lg' : _props$maxWidth,
+      other = (0, _objectWithoutProperties2.default)(props, ["classes", "className", "component", "disableGutters", "fixed", "maxWidth"]);
+  return _react.default.createElement(Component, (0, _extends2.default)({
+    className: (0, _clsx.default)(classes.root, className, fixed && classes.fixed, disableGutters && classes.disableGutters, maxWidth !== false && classes["maxWidth".concat((0, _capitalize.default)(String(maxWidth)))]),
+    ref: ref
+  }, other));
+});
+
+"development" !== "production" ? Container.propTypes = {
+  children: _propTypes.default.node.isRequired,
+
+  /**
+   * Override or extend the styles applied to the component.
+   * See [CSS API](#css) below for more details.
+   */
+  classes: _propTypes.default.object.isRequired,
+
+  /**
+   * @ignore
+   */
+  className: _propTypes.default.string,
+
+  /**
+   * The component used for the root node.
+   * Either a string to use a DOM element or a component.
+   */
+  component: _propTypes.default.elementType,
+
+  /**
+   * If `true`, the left and right padding is removed.
+   */
+  disableGutters: _propTypes.default.bool,
+
+  /**
+   * Set the max-width to match the min-width of the current breakpoint.
+   * This is useful if you'd prefer to design for a fixed set of sizes
+   * instead of trying to accommodate a fully fluid viewport.
+   * It's fluid by default.
+   */
+  fixed: _propTypes.default.bool,
+
+  /**
+   * Determine the max-width of the container.
+   * The container width grows with the size of the screen.
+   * Set to `false` to disable `maxWidth`.
+   */
+  maxWidth: _propTypes.default.oneOf(['xs', 'sm', 'md', 'lg', 'xl', false])
+} : void 0;
+
+var _default = (0, _withStyles.default)(styles, {
+  name: 'MuiContainer'
+})(Container);
+
+exports.default = _default;
+},{"@babel/runtime/helpers/esm/extends":"node_modules/@babel/runtime/helpers/esm/extends.js","@babel/runtime/helpers/esm/objectWithoutProperties":"node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js","@babel/runtime/helpers/esm/defineProperty":"node_modules/@babel/runtime/helpers/esm/defineProperty.js","react":"node_modules/react/index.js","prop-types":"node_modules/prop-types/index.js","clsx":"node_modules/clsx/dist/clsx.m.js","../styles/withStyles":"node_modules/@material-ui/core/esm/styles/withStyles.js","../utils/capitalize":"node_modules/@material-ui/core/esm/utils/capitalize.js"}],"node_modules/@material-ui/core/esm/Container/index.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+Object.defineProperty(exports, "default", {
+  enumerable: true,
+  get: function () {
+    return _Container.default;
+  }
+});
+
+var _Container = _interopRequireDefault(require("./Container"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+},{"./Container":"node_modules/@material-ui/core/esm/Container/Container.js"}],"node_modules/@material-ui/core/esm/Divider/Divider.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.default = exports.styles = void 0;
+
+var _extends2 = _interopRequireDefault(require("@babel/runtime/helpers/esm/extends"));
+
+var _objectWithoutProperties2 = _interopRequireDefault(require("@babel/runtime/helpers/esm/objectWithoutProperties"));
+
+var _react = _interopRequireDefault(require("react"));
+
+var _propTypes = _interopRequireDefault(require("prop-types"));
+
+var _clsx = _interopRequireDefault(require("clsx"));
+
+var _withStyles = _interopRequireDefault(require("../styles/withStyles"));
+
+var _colorManipulator = require("../styles/colorManipulator");
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+var styles = function styles(theme) {
+  return {
+    /* Styles applied to the root element. */
+    root: {
+      height: 1,
+      margin: 0,
+      // Reset browser default style.
+      border: 'none',
+      flexShrink: 0,
+      backgroundColor: theme.palette.divider
+    },
+
+    /* Styles applied to the root element if `absolute={true}`. */
+    absolute: {
+      position: 'absolute',
+      bottom: 0,
+      left: 0,
+      width: '100%'
+    },
+
+    /* Styles applied to the root element if `variant="inset"`. */
+    inset: {
+      marginLeft: 72
+    },
+
+    /* Styles applied to the root element if `light={true}`. */
+    light: {
+      backgroundColor: (0, _colorManipulator.fade)(theme.palette.divider, 0.08)
+    },
+
+    /* Styles applied to the root element if `variant="middle"`. */
+    middle: {
+      marginLeft: theme.spacing(2),
+      marginRight: theme.spacing(2)
+    },
+
+    /* Styles applied to the root element if `orientation="vertical"`. */
+    vertical: {
+      height: '100%',
+      width: 1
+    }
+  };
+};
+
+exports.styles = styles;
+
+var Divider = _react.default.forwardRef(function Divider(props, ref) {
+  var _props$absolute = props.absolute,
+      absolute = _props$absolute === void 0 ? false : _props$absolute,
+      classes = props.classes,
+      className = props.className,
+      _props$component = props.component,
+      Component = _props$component === void 0 ? 'hr' : _props$component,
+      _props$light = props.light,
+      light = _props$light === void 0 ? false : _props$light,
+      _props$orientation = props.orientation,
+      orientation = _props$orientation === void 0 ? 'horizontal' : _props$orientation,
+      _props$role = props.role,
+      role = _props$role === void 0 ? Component !== 'hr' ? 'separator' : undefined : _props$role,
+      _props$variant = props.variant,
+      variant = _props$variant === void 0 ? 'fullWidth' : _props$variant,
+      other = (0, _objectWithoutProperties2.default)(props, ["absolute", "classes", "className", "component", "light", "orientation", "role", "variant"]);
+  return _react.default.createElement(Component, (0, _extends2.default)({
+    className: (0, _clsx.default)(classes.root, className, variant !== 'fullWidth' && classes[variant], absolute && classes.absolute, light && classes.light, {
+      vertical: classes.vertical
+    }[orientation]),
+    role: role,
+    ref: ref
+  }, other));
+});
+
+"development" !== "production" ? Divider.propTypes = {
+  /**
+   * Absolutely position the element.
+   */
+  absolute: _propTypes.default.bool,
+
+  /**
+   * Override or extend the styles applied to the component.
+   * See [CSS API](#css) below for more details.
+   */
+  classes: _propTypes.default.object.isRequired,
+
+  /**
+   * @ignore
+   */
+  className: _propTypes.default.string,
+
+  /**
+   * The component used for the root node.
+   * Either a string to use a DOM element or a component.
+   */
+  component: _propTypes.default.elementType,
+
+  /**
+   * If `true`, the divider will have a lighter color.
+   */
+  light: _propTypes.default.bool,
+
+  /**
+   * The divider orientation.
+   */
+  orientation: _propTypes.default.oneOf(['horizontal', 'vertical']),
+
+  /**
+   * @ignore
+   */
+  role: _propTypes.default.string,
+
+  /**
+   * The variant to use.
+   */
+  variant: _propTypes.default.oneOf(['fullWidth', 'inset', 'middle'])
+} : void 0;
+
+var _default = (0, _withStyles.default)(styles, {
+  name: 'MuiDivider'
+})(Divider);
+
+exports.default = _default;
+},{"@babel/runtime/helpers/esm/extends":"node_modules/@babel/runtime/helpers/esm/extends.js","@babel/runtime/helpers/esm/objectWithoutProperties":"node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js","react":"node_modules/react/index.js","prop-types":"node_modules/prop-types/index.js","clsx":"node_modules/clsx/dist/clsx.m.js","../styles/withStyles":"node_modules/@material-ui/core/esm/styles/withStyles.js","../styles/colorManipulator":"node_modules/@material-ui/core/esm/styles/colorManipulator.js"}],"node_modules/@material-ui/core/esm/Divider/index.js":[function(require,module,exports) {
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+Object.defineProperty(exports, "default", {
+  enumerable: true,
+  get: function () {
+    return _Divider.default;
+  }
+});
+
+var _Divider = _interopRequireDefault(require("./Divider"));
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+},{"./Divider":"node_modules/@material-ui/core/esm/Divider/Divider.js"}],"src/components/App.tsx":[function(require,module,exports) {
 "use strict";
 
 var __assign = this && this.__assign || function () {
@@ -51331,6 +51914,10 @@ var Switch_1 = __importDefault(require("@material-ui/core/Switch"));
 
 var Slider_1 = __importDefault(require("@material-ui/core/Slider"));
 
+var Container_1 = __importDefault(require("@material-ui/core/Container"));
+
+var Divider_1 = __importDefault(require("@material-ui/core/Divider"));
+
 exports.App = function () {
   var _a = react_1.useState(false),
       open = _a[0],
@@ -51351,6 +51938,15 @@ exports.App = function () {
       tierFilter = _c[0],
       setTierFilter = _c[1];
 
+  var _d = react_1.useState({
+    mythic: true,
+    rare: true,
+    uncommon: true,
+    common: true
+  }),
+      rarityFilter = _d[0],
+      setRarityFilter = _d[1];
+
   return React.createElement(React.Fragment, null, React.createElement(Dialog_1.default, {
     open: open,
     onClose: function onClose() {
@@ -51362,11 +51958,26 @@ exports.App = function () {
     return React.createElement(FormControlLabel_1.default, {
       key: k,
       control: React.createElement(Switch_1.default, {
+        color: "primary",
         checked: colorFilter[k],
         onChange: function onChange() {
           var _a;
 
           return setColorFilter(__assign(__assign({}, colorFilter), (_a = {}, _a[k] = !colorFilter[k], _a)));
+        }
+      }),
+      label: k
+    });
+  }), React.createElement(Divider_1.default, null), Object.keys(rarityFilter).map(function (k) {
+    return React.createElement(FormControlLabel_1.default, {
+      key: k,
+      control: React.createElement(Switch_1.default, {
+        color: "secondary",
+        checked: rarityFilter[k],
+        onChange: function onChange() {
+          var _a;
+
+          return setRarityFilter(__assign(__assign({}, rarityFilter), (_a = {}, _a[k] = !rarityFilter[k], _a)));
         }
       }),
       label: k
@@ -51385,7 +51996,12 @@ exports.App = function () {
       return setOpen(false);
     },
     color: "primary"
-  }, "OK"))), eld_json_1.default.sort(function (c1, c2) {
+  }, "OK"))), React.createElement(Container_1.default, {
+    maxWidth: "xs",
+    style: {
+      marginBottom: 50
+    }
+  }, eld_json_1.default.sort(function (c1, c2) {
     return c2.tier - c1.tier;
   }).filter(function (c) {
     return tierFilter <= c.tier;
@@ -51393,6 +52009,8 @@ exports.App = function () {
     return c.colors.length === 0 ? colorFilter.none : c.colors.some(function (color) {
       return colorFilter[color.toLowerCase()];
     });
+  }).filter(function (c) {
+    return rarityFilter[c.rarity.toLowerCase()];
   }).map(function (c) {
     return React.createElement(Card_1.default, {
       key: c.name
@@ -51400,7 +52018,7 @@ exports.App = function () {
       component: "img",
       src: c.imageUrl
     }));
-  }), React.createElement(BottomNavigation_1.default, {
+  })), React.createElement(BottomNavigation_1.default, {
     showLabels: true,
     style: {
       position: "fixed",
@@ -51413,7 +52031,7 @@ exports.App = function () {
     }
   }, "Setting")));
 };
-},{"react":"node_modules/react/index.js","@material-ui/core/Card":"node_modules/@material-ui/core/esm/Card/index.js","@material-ui/core/CardMedia":"node_modules/@material-ui/core/esm/CardMedia/index.js","@material-ui/core/CardContent":"node_modules/@material-ui/core/esm/CardContent/index.js","@material-ui/core/Typography":"node_modules/@material-ui/core/esm/Typography/index.js","@material-ui/core/Dialog":"node_modules/@material-ui/core/esm/Dialog/index.js","@material-ui/core/DialogContent":"node_modules/@material-ui/core/esm/DialogContent/index.js","@material-ui/core/DialogActions":"node_modules/@material-ui/core/esm/DialogActions/index.js","@material-ui/core/Button":"node_modules/@material-ui/core/esm/Button/index.js","@material-ui/core/BottomNavigation":"node_modules/@material-ui/core/esm/BottomNavigation/index.js","../../data/eld.json":"data/eld.json","@material-ui/core/FormGroup":"node_modules/@material-ui/core/esm/FormGroup/index.js","@material-ui/core/FormControlLabel":"node_modules/@material-ui/core/esm/FormControlLabel/index.js","@material-ui/core/Switch":"node_modules/@material-ui/core/esm/Switch/index.js","@material-ui/core/Slider":"node_modules/@material-ui/core/esm/Slider/index.js"}],"src/index.tsx":[function(require,module,exports) {
+},{"react":"node_modules/react/index.js","@material-ui/core/Card":"node_modules/@material-ui/core/esm/Card/index.js","@material-ui/core/CardMedia":"node_modules/@material-ui/core/esm/CardMedia/index.js","@material-ui/core/CardContent":"node_modules/@material-ui/core/esm/CardContent/index.js","@material-ui/core/Typography":"node_modules/@material-ui/core/esm/Typography/index.js","@material-ui/core/Dialog":"node_modules/@material-ui/core/esm/Dialog/index.js","@material-ui/core/DialogContent":"node_modules/@material-ui/core/esm/DialogContent/index.js","@material-ui/core/DialogActions":"node_modules/@material-ui/core/esm/DialogActions/index.js","@material-ui/core/Button":"node_modules/@material-ui/core/esm/Button/index.js","@material-ui/core/BottomNavigation":"node_modules/@material-ui/core/esm/BottomNavigation/index.js","../../data/eld.json":"data/eld.json","@material-ui/core/FormGroup":"node_modules/@material-ui/core/esm/FormGroup/index.js","@material-ui/core/FormControlLabel":"node_modules/@material-ui/core/esm/FormControlLabel/index.js","@material-ui/core/Switch":"node_modules/@material-ui/core/esm/Switch/index.js","@material-ui/core/Slider":"node_modules/@material-ui/core/esm/Slider/index.js","@material-ui/core/Container":"node_modules/@material-ui/core/esm/Container/index.js","@material-ui/core/Divider":"node_modules/@material-ui/core/esm/Divider/index.js"}],"src/index.tsx":[function(require,module,exports) {
 "use strict";
 
 var __importStar = this && this.__importStar || function (mod) {
@@ -51465,7 +52083,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "38325" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "12345" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
